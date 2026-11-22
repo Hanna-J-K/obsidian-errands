@@ -1,0 +1,8 @@
+"id": "errands-and-quests",
+"name": "Errands and Quests",
+"version": "0.1.0",
+"minAppVersion": "1.12.7",
+"description": "A hopefully immersive world view of errands, chores, quests, projects and events.",
+"author": "Hanna-J-K",
+"authorUrl": "https://github.com/Hanna-J-K",
+"isDesktopOnly": false

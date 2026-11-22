@@ -1,0 +1,25 @@
+{
+  "name": "obsidian-errands",
+  "version": "0.1.0",
+  "description": "An immersive world view for chores, errands, quests, projects, and events.",
+  "private": true,
+  "main": "main.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanna-J-K/obsidian-errands.git"
+  },
+  "author": "Hanna-J-K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hanna-J-K/obsidian-errands/issues"
+  },
+  "homepage": "https://github.com/Hanna-J-K/obsidian-errands#readme",
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "obsidian": "^1.14.4",
+    "typescript": "^5.9.3",
+    "typescript-language-server": "^6.1.0"
+  }
+}
