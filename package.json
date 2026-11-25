@@ -5,7 +5,9 @@
   "private": true,
   "main": "main.js",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Hanna-J-K/obsidian-errands.git"
@@ -17,9 +19,16 @@
   },
   "homepage": "https://github.com/Hanna-J-K/obsidian-errands#readme",
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^26.6.10",
     "esbuild": "0.28.2",
+    "eslint": "^10.15.0",
+    "eslint-plugin-obsidianmd": "^0.6.0",
+    "globals": "^17.14.0",
+    "jiti": "^2.7.0",
     "obsidian": "^1.14.4",
     "typescript": "^5.9.3",
+    "typescript-eslint": "^8.73.0",
     "typescript-language-server": "^6.1.0"
   }
 }
